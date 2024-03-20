@@ -1,0 +1,61 @@
+Column Name	Null Values	Unique Values
+case_id	0	
+case_submitter_id	0	
+age_at_index	0	
+days_to_birth	0	
+days_to_death	304	
+ethnicity	0	['not hispanic or latino' 'not reported' 'hispanic or latino']
+gender	0	['male' 'female']
+race	0	"['white' 'black or african american' 'asian' 'not reported'
+ 'american indian or alaska native']"
+vital_status	0	['Alive' 'Dead']
+year_of_birth	0	
+year_of_death	357	
+age_at_diagnosis	0	
+ajcc_clinical_m	5	"['M0' 'MX' ""'--"" 'M1']"
+ajcc_clinical_n	4	"['N0' 'N1' 'N2b' 'NX' 'N3' 'N2a' 'N2c' ""'--"" 'N2']"
+ajcc_clinical_stage	14	"['Stage IVA' 'Stage III' ""'--"" 'Stage II' 'Stage I' 'Stage IVB'
+ 'Stage IVC']"
+ajcc_clinical_t	4	"['T4a' 'T3' 'T2' 'TX' 'T1' 'T4' ""'--"" 'T4b']"
+ajcc_pathologic_m	271	"['M0' ""'--"" 'MX' 'M1']"
+ajcc_pathologic_n	25	"['N0' 'N2b' 'N2a' 'N2' 'NX' 'N1' 'N2c' ""'--"" 'N3']"
+ajcc_pathologic_stage	75	"['Stage IVA' 'Stage II' 'Stage III' 'Stage I' ""'--"" 'Stage IVB'
+ 'Stage IVC']"
+ajcc_pathologic_t	23	"['T4a' 'T2' 'T3' 'T1' ""'--"" 'TX' 'T4' 'T4b' 'T0']"
+ajcc_staging_system_edition	0	['6th' '7th' '5th' '4th']
+days_to_last_follow_up	162	
+icd_10_code	0	"['C14.8' 'C02.9' 'C13.9' 'C09.9' 'C32.9' 'C06.9' 'C01' 'C03.9' 'C10.9'
+ 'C04.9' 'C04.0' 'C41.1' 'C32.1' 'C06.0' 'C00.9' 'C10.3' 'C05.0' 'C03.0'
+ 'C03.1' 'C05.9' 'C02.1' 'C06.2']"
+morphology	0	['8070/3' '8071/3' '8083/3' '8072/3' '8074/3']
+primary_diagnosis	0	"['Squamous cell carcinoma, NOS'
+ 'Squamous cell carcinoma, keratinizing, NOS'
+ 'Basaloid squamous cell carcinoma'
+ 'Squamous cell carcinoma, large cell, nonkeratinizing, NOS'
+ 'Squamous cell carcinoma, spindle cell']"
+prior_malignancy	0	['no' 'yes']
+prior_treatment	0	['No' 'Yes']
+site_of_resection_or_biopsy	0	"['Overlapping lesion of lip, oral cavity and pharynx' 'Tongue, NOS'
+ 'Hypopharynx, NOS' 'Tonsil, NOS' 'Larynx, NOS' 'Mouth, NOS'
+ 'Base of tongue, NOS' 'Pharynx, NOS' 'Gum, NOS' 'Floor of mouth, NOS'
+ 'Anterior floor of mouth' 'Mandible' 'Supraglottis' 'Cheek mucosa'
+ 'Lip, NOS' 'Oropharynx, NOS' 'Posterior wall of oropharynx' 'Hard palate'
+ 'Upper gum' 'Lower gum' 'Palate, NOS' 'Border of tongue'
+ 'Retromolar area']"
+synchronous_malignancy	0	['No' 'Yes' 'Not Reported']
+tissue_or_organ_of_origin	0	"['Overlapping lesion of lip, oral cavity and pharynx' 'Tongue, NOS'
+ 'Hypopharynx, NOS' 'Tonsil, NOS' 'Larynx, NOS' 'Mouth, NOS'
+ 'Base of tongue, NOS' 'Pharynx, NOS' 'Gum, NOS' 'Floor of mouth, NOS'
+ 'Anterior floor of mouth' 'Mandible' 'Supraglottis' 'Cheek mucosa'
+ 'Lip, NOS' 'Oropharynx, NOS' 'Posterior wall of oropharynx' 'Hard palate'
+ 'Upper Gum' 'Lower gum' 'Palate, NOS' 'Border of tongue'
+ 'Retromolar area']"
+year_of_diagnosis	0	
+treatment_or_therapy	0	['yes' 'no' 'not reported']
+treatment_type	0	"['Radiation Therapy, NOS' 'Pharmaceutical Therapy, NOS']"
+treatment_or_therapy_2	0	['no' 'yes' 'not reported']
+treatment_type_2	0	"['Pharmaceutical Therapy, NOS' 'Radiation Therapy, NOS']"
+alcohol_history	0	['Yes' 'No' 'Not Reported']
+cigarettes_per_day	230	
+pack_years_smoked	230	
+years_smoked	389	
